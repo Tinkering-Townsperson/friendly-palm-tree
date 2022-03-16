@@ -1,1 +1,1 @@
-# friendly-palm-tree
+# how to launch the games on the GAME usb
